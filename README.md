@@ -1,5 +1,5 @@
 ## simple codes in php and angularjs
 
-For php is a script i take randomly that were transilating a list of pruducts as you will see it was from a csv file
+php: a script that take a csv file and transilate it from french-english and generate output as csv file again
 
-For angularjs it is again a file a take randomly in a project i am working on right now
+angularjs: a randomily file a took randomly in a project i am working on
